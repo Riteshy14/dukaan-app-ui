@@ -17,7 +17,7 @@ export function Table() {
           {OrderData.map((order)=>{
             return (
                 <tbody>
-                    <tr>
+                    <tr className="bg-white-500 border-b">
                         <td className="px-2 py-2 text-blue-700">#{order.id}</td>
                         <td className="px-2 py-2 text-gray-700 flex items-center gap-1">
                           {(order.status=== "Successfull") && <div className="h-2 w-2 rounded-full bg-green-500"/>}

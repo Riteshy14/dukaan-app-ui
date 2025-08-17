@@ -6,6 +6,7 @@ import { OverView } from "./component/OverView";
 import { Transaction } from "./component/Transaction";
 import { TableTopPart } from "./component/TableTopPart";
 import { Table } from "./component/Table";
+import { Footer } from "./component/footer";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -21,6 +22,9 @@ function App() {
           <div className="p-2 rounded-lg bg-white-500">
             <TableTopPart />
             <Table />
+          </div>
+          <div>
+            <Footer/>
           </div>
         </div>
       </div>
