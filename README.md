@@ -6,23 +6,25 @@ are used for adding icons throughout the application.
 
 Assessment (Figma Design): [Dukaan Assignment tweet (Payouts V2 - 2023)](https://x.com/subhashchy/status/1744308069751025894?t=07R6p4n89mn5Vr7tKXvaGA&s=19)
 
-- Live link:-[https://dukaan-app-ui-liard.vercel.app/]([https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react](https://dukaan-app-ui-liard.vercel.app/))
+## 🚀 Live Demo
+[Click here to view the live site](https://dukaan-app-ui-liard.vercel.app/)
+
 
  ## Dukan App UI
   ![Image Alt](https://github.com/Riteshy14/dukaan-app-ui/blob/36333170058d0be84418f26936c58e11fa7e9618/Screenshot%20from%202025-08-17%2021-08-27.png)
 
-  ##Technology Used
+  ## Technology Used
   - React + Vite
   - Tailwind css
   - React Icons
 
-##Local Installation
+## Local Installation
 To run this project locally, follow these steps:
 
-##Prerequisites
+## Prerequisites
 - Node.js and npm should be installed on your machine.
 
- ##Installation
+ ## Installation
   1.Clone the repository:
      ```bash
      git clone https://github.com/Riteshy14/dukaan-app-ui.git
