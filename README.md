@@ -1,12 +1,47 @@
-# React + Vite
+# Dukaan App UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The project aims to replicate the provided Figma design using React Vite. It includes features like pagination, 
+and it's styled using Tailwind CSS for responsive and modern UI design. React Icons
+are used for adding icons throughout the application.
 
-Currently, two official plugins are available:
+Assessment (Figma Design): [Dukaan Assignment tweet (Payouts V2 - 2023)](https://x.com/subhashchy/status/1744308069751025894?t=07R6p4n89mn5Vr7tKXvaGA&s=19)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Live link:-[https://dukaan-app-ui-liard.vercel.app/]([https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react](https://dukaan-app-ui-liard.vercel.app/))
 
-## Expanding the ESLint configuration
+ ## Dukan App UI
+  ![Image Alt](https://github.com/Riteshy14/dukaan-app-ui/blob/36333170058d0be84418f26936c58e11fa7e9618/Screenshot%20from%202025-08-17%2021-08-27.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+  ##Technology Used
+  - React + Vite
+  - Tailwind css
+  - React Icons
+
+##Local Installation
+To run this project locally, follow these steps:
+
+##Prerequisites
+- Node.js and npm should be installed on your machine.
+
+ ##Installation
+  1.Clone the repository:
+     ```bash
+     git clone https://github.com/Riteshy14/dukaan-app-ui.git
+     ```
+  2. Navigate to dukaan-app:
+     ```bash
+     cd dukaan-app-ui
+     ```
+  3.Install Dependencies:
+    ```bash
+    npm i
+    ```
+  4.Run the application:
+    ```bash
+    npm run dev
+    ```
+    
+  The development server will start, and you can access the application by visiting http://localhost:5173 in your web browser.
+
+  
+
+
